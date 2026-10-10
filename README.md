@@ -1,1 +1,1 @@
-# furniture-sales-dashboard-2025
+# 2025 Furniture Sales Dashboard
